@@ -44,8 +44,8 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **PROGRAM**
 
-## Developed by: T.ROSHINI
-## RegisterNumber:212223230175
+**Developed by: T.ROSHINI**
+**RegisterNumber:212223230175**
 
 ```
 module synchronous(out,clk,rstn);
